@@ -1,0 +1,1 @@
+Sitemap: http://localhost/php/bbs_proj/sitemap.xml

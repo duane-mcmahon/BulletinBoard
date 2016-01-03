@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gourmet/faker": "^1.0"
+    }
+}

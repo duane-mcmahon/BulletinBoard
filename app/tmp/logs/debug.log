@@ -1,0 +1,1114 @@
+2015-08-10 17:31:19 Debug: POS IF POST
+
+2015-08-10 17:34:14 Debug: POS IF POST
+
+2015-08-10 17:42:36 Debug: POS IF POST
+
+2015-08-13 12:17:51 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Topics/view.ctp, line 6]
+Trace:
+include - APP/View/Topics/view.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-08-13 12:17:51 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Topics/view.ctp, line 11]
+Trace:
+include - APP/View/Topics/view.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-08-13 12:17:51 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Topics/view.ctp, line 16]
+Trace:
+include - APP/View/Topics/view.ctp, line 16
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-08-13 12:17:51 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Elements/topics_view_menu.ctp, line 7]
+Trace:
+include - APP/View/Elements/topics_view_menu.ctp, line 7
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/topics_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-08-13 12:17:51 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Elements/topics_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/topics_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/topics_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-08-13 12:17:51 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Elements/topics_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/topics_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/topics_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-12-09 16:38:22 Notice: Notice (8): session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in [/var/www/html/php/bbs_proj/lib/Cake/Model/Datasource/CakeSession.php, line 618]
+Trace:
+session_start - [internal], line ??
+CakeSession::_startSession() - CORE/Cake/Model/Datasource/CakeSession.php, line 618
+CakeSession::start() - CORE/Cake/Model/Datasource/CakeSession.php, line 190
+CakeSession::check() - CORE/Cake/Model/Datasource/CakeSession.php, line 216
+AuthComponent::user() - CORE/Cake/Controller/Component/AuthComponent.php, line 596
+include - APP/View/Layouts/default.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+PagesController::display() - APP/Controller/PagesController.php, line 98
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-12-30 23:44:35 Notice: Notice (8): session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in [/var/www/html/php/bbs_proj/lib/Cake/Model/Datasource/CakeSession.php, line 618]
+Trace:
+session_start - [internal], line ??
+CakeSession::_startSession() - CORE/Cake/Model/Datasource/CakeSession.php, line 618
+CakeSession::start() - CORE/Cake/Model/Datasource/CakeSession.php, line 190
+CakeSession::read() - CORE/Cake/Model/Datasource/CakeSession.php, line 366
+SessionHelper::read() - CORE/Cake/View/Helper/SessionHelper.php, line 45
+include - APP/View/Elements/home_menu.ctp, line 13
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/default.ctp, line 23
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+PagesController::display() - APP/Controller/PagesController.php, line 98
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-12-31 10:44:39 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/Controller/PostsController.php, line 48]
+Trace:
+PostsController::view() - APP/Controller/PostsController.php, line 48
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-12-31 10:44:39 Notice: Notice (8): Undefined index: User in [/var/www/html/php/bbs_proj/app/View/Posts/view.ctp, line 7]
+Trace:
+include - APP/View/Posts/view.ctp, line 7
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-12-31 10:44:39 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Posts/view.ctp, line 12]
+Trace:
+include - APP/View/Posts/view.ctp, line 12
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-12-31 10:44:39 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Posts/view.ctp, line 17]
+Trace:
+include - APP/View/Posts/view.ctp, line 17
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-12-31 10:44:39 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/View/Posts/view.ctp, line 23]
+Trace:
+include - APP/View/Posts/view.ctp, line 23
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-12-31 10:44:39 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/View/Posts/view.ctp, line 28]
+Trace:
+include - APP/View/Posts/view.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-12-31 10:44:39 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/View/Posts/view.ctp, line 31]
+Trace:
+include - APP/View/Posts/view.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-12-31 10:44:39 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/View/Elements/posts_view_menu.ctp, line 7]
+Trace:
+include - APP/View/Elements/posts_view_menu.ctp, line 7
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/posts_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-12-31 10:44:39 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/View/Elements/posts_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/posts_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/posts_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-12-31 10:44:39 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/View/Elements/posts_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/posts_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/posts_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2015-12-31 10:44:39 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/View/Elements/posts_view_menu.ctp, line 9]
+Trace:
+include - APP/View/Elements/posts_view_menu.ctp, line 9
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/posts_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 20:45:12 Notice: Notice (1024): Element Not Found: Elements/categories_index_menu.ctp in [/var/www/html/php/bbs_proj/lib/Cake/View/View.php, line 421]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 421
+include - APP/View/Layouts/categories_index.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 20:48:06 Notice: Notice (1024): Element Not Found: Elements/categories_index_menu.ctp in [/var/www/html/php/bbs_proj/lib/Cake/View/View.php, line 421]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 421
+include - APP/View/Layouts/categories_index.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 20:48:08 Notice: Notice (1024): Element Not Found: Elements/categories_index_menu.ctp in [/var/www/html/php/bbs_proj/lib/Cake/View/View.php, line 421]
+Trace:
+View::element() - CORE/Cake/View/View.php, line 421
+include - APP/View/Layouts/categories_index.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 20:48:26 Notice: Notice (8): session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in [/var/www/html/php/bbs_proj/lib/Cake/Model/Datasource/CakeSession.php, line 618]
+Trace:
+session_start - [internal], line ??
+CakeSession::_startSession() - CORE/Cake/Model/Datasource/CakeSession.php, line 618
+CakeSession::start() - CORE/Cake/Model/Datasource/CakeSession.php, line 190
+CakeSession::read() - CORE/Cake/Model/Datasource/CakeSession.php, line 366
+SessionHelper::read() - CORE/Cake/View/Helper/SessionHelper.php, line 45
+include - APP/View/Elements/cats_index_menu.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/categories_index.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 21:07:18 Notice: Notice (8): session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in [/var/www/html/php/bbs_proj/lib/Cake/Model/Datasource/CakeSession.php, line 618]
+Trace:
+session_start - [internal], line ??
+CakeSession::_startSession() - CORE/Cake/Model/Datasource/CakeSession.php, line 618
+CakeSession::start() - CORE/Cake/Model/Datasource/CakeSession.php, line 190
+CakeSession::read() - CORE/Cake/Model/Datasource/CakeSession.php, line 366
+SessionHelper::read() - CORE/Cake/View/Helper/SessionHelper.php, line 45
+include - APP/View/Elements/cats_index_menu.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/categories_index.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 21:07:32 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/Controller/PostsController.php, line 48]
+Trace:
+PostsController::view() - APP/Controller/PostsController.php, line 48
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 21:07:32 Notice: Notice (8): Undefined index: User in [/var/www/html/php/bbs_proj/app/View/Posts/view.ctp, line 7]
+Trace:
+include - APP/View/Posts/view.ctp, line 7
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 21:07:32 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Posts/view.ctp, line 12]
+Trace:
+include - APP/View/Posts/view.ctp, line 12
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 21:07:32 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Posts/view.ctp, line 17]
+Trace:
+include - APP/View/Posts/view.ctp, line 17
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 21:07:32 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/View/Posts/view.ctp, line 23]
+Trace:
+include - APP/View/Posts/view.ctp, line 23
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 21:07:32 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/View/Posts/view.ctp, line 28]
+Trace:
+include - APP/View/Posts/view.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 21:07:32 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/View/Posts/view.ctp, line 31]
+Trace:
+include - APP/View/Posts/view.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 21:07:32 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/View/Elements/posts_view_menu.ctp, line 7]
+Trace:
+include - APP/View/Elements/posts_view_menu.ctp, line 7
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/posts_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 21:07:32 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/View/Elements/posts_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/posts_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/posts_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 21:07:32 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/View/Elements/posts_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/posts_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/posts_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 21:07:32 Notice: Notice (8): Undefined index: Post in [/var/www/html/php/bbs_proj/app/View/Elements/posts_view_menu.ctp, line 9]
+Trace:
+include - APP/View/Elements/posts_view_menu.ctp, line 9
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/posts_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 21:31:25 Notice: Notice (8): session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in [/var/www/html/php/bbs_proj/lib/Cake/Model/Datasource/CakeSession.php, line 618]
+Trace:
+session_start - [internal], line ??
+CakeSession::_startSession() - CORE/Cake/Model/Datasource/CakeSession.php, line 618
+CakeSession::start() - CORE/Cake/Model/Datasource/CakeSession.php, line 190
+CakeSession::check() - CORE/Cake/Model/Datasource/CakeSession.php, line 216
+AuthComponent::user() - CORE/Cake/Controller/Component/AuthComponent.php, line 596
+AuthComponent::_getUser() - CORE/Cake/Controller/Component/AuthComponent.php, line 617
+AuthComponent::startup() - CORE/Cake/Controller/Component/AuthComponent.php, line 320
+ObjectCollection::trigger() - CORE/Cake/Utility/ObjectCollection.php, line 132
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 248
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 675
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 184
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 21:37:55 Notice: Notice (8): session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in [/var/www/html/php/bbs_proj/lib/Cake/Model/Datasource/CakeSession.php, line 618]
+Trace:
+session_start - [internal], line ??
+CakeSession::_startSession() - CORE/Cake/Model/Datasource/CakeSession.php, line 618
+CakeSession::start() - CORE/Cake/Model/Datasource/CakeSession.php, line 190
+CakeSession::check() - CORE/Cake/Model/Datasource/CakeSession.php, line 216
+AuthComponent::user() - CORE/Cake/Controller/Component/AuthComponent.php, line 596
+AuthComponent::_getUser() - CORE/Cake/Controller/Component/AuthComponent.php, line 617
+AuthComponent::startup() - CORE/Cake/Controller/Component/AuthComponent.php, line 320
+ObjectCollection::trigger() - CORE/Cake/Utility/ObjectCollection.php, line 132
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 248
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 675
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 184
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 22:13:08 Notice: Notice (8): session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in [/var/www/html/php/bbs_proj/lib/Cake/Model/Datasource/CakeSession.php, line 618]
+Trace:
+session_start - [internal], line ??
+CakeSession::_startSession() - CORE/Cake/Model/Datasource/CakeSession.php, line 618
+CakeSession::start() - CORE/Cake/Model/Datasource/CakeSession.php, line 190
+CakeSession::check() - CORE/Cake/Model/Datasource/CakeSession.php, line 216
+AuthComponent::user() - CORE/Cake/Controller/Component/AuthComponent.php, line 596
+AuthComponent::_getUser() - CORE/Cake/Controller/Component/AuthComponent.php, line 617
+AuthComponent::startup() - CORE/Cake/Controller/Component/AuthComponent.php, line 320
+ObjectCollection::trigger() - CORE/Cake/Utility/ObjectCollection.php, line 132
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 248
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 675
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 184
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 22:18:57 Notice: Notice (8): session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in [/var/www/html/php/bbs_proj/lib/Cake/Model/Datasource/CakeSession.php, line 618]
+Trace:
+session_start - [internal], line ??
+CakeSession::_startSession() - CORE/Cake/Model/Datasource/CakeSession.php, line 618
+CakeSession::start() - CORE/Cake/Model/Datasource/CakeSession.php, line 190
+CakeSession::check() - CORE/Cake/Model/Datasource/CakeSession.php, line 216
+AuthComponent::user() - CORE/Cake/Controller/Component/AuthComponent.php, line 596
+AuthComponent::_getUser() - CORE/Cake/Controller/Component/AuthComponent.php, line 617
+AuthComponent::startup() - CORE/Cake/Controller/Component/AuthComponent.php, line 320
+ObjectCollection::trigger() - CORE/Cake/Utility/ObjectCollection.php, line 132
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 248
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 675
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 184
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 22:20:44 Notice: Notice (8): session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in [/var/www/html/php/bbs_proj/lib/Cake/Model/Datasource/CakeSession.php, line 618]
+Trace:
+session_start - [internal], line ??
+CakeSession::_startSession() - CORE/Cake/Model/Datasource/CakeSession.php, line 618
+CakeSession::start() - CORE/Cake/Model/Datasource/CakeSession.php, line 190
+CakeSession::check() - CORE/Cake/Model/Datasource/CakeSession.php, line 216
+AuthComponent::user() - CORE/Cake/Controller/Component/AuthComponent.php, line 596
+AuthComponent::_getUser() - CORE/Cake/Controller/Component/AuthComponent.php, line 617
+AuthComponent::startup() - CORE/Cake/Controller/Component/AuthComponent.php, line 320
+ObjectCollection::trigger() - CORE/Cake/Utility/ObjectCollection.php, line 132
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 248
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 675
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 184
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:00:04 Notice: Notice (8): session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in [/var/www/html/php/bbs_proj/lib/Cake/Model/Datasource/CakeSession.php, line 618]
+Trace:
+session_start - [internal], line ??
+CakeSession::_startSession() - CORE/Cake/Model/Datasource/CakeSession.php, line 618
+CakeSession::start() - CORE/Cake/Model/Datasource/CakeSession.php, line 190
+CakeSession::check() - CORE/Cake/Model/Datasource/CakeSession.php, line 216
+AuthComponent::user() - CORE/Cake/Controller/Component/AuthComponent.php, line 596
+AuthComponent::_getUser() - CORE/Cake/Controller/Component/AuthComponent.php, line 617
+AuthComponent::startup() - CORE/Cake/Controller/Component/AuthComponent.php, line 320
+ObjectCollection::trigger() - CORE/Cake/Utility/ObjectCollection.php, line 132
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 248
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 675
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 184
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:33:07 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Categories/view.ctp, line 6]
+Trace:
+include - APP/View/Categories/view.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:33:07 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Categories/view.ctp, line 11]
+Trace:
+include - APP/View/Categories/view.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:33:07 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Categories/view.ctp, line 16]
+Trace:
+include - APP/View/Categories/view.ctp, line 16
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:33:07 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Elements/cats_view_menu.ctp, line 7]
+Trace:
+include - APP/View/Elements/cats_view_menu.ctp, line 7
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/categories_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:33:07 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Elements/cats_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/cats_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/categories_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:33:07 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Elements/cats_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/cats_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/categories_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:34:23 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Categories/view.ctp, line 6]
+Trace:
+include - APP/View/Categories/view.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:34:23 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Categories/view.ctp, line 11]
+Trace:
+include - APP/View/Categories/view.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:34:23 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Categories/view.ctp, line 16]
+Trace:
+include - APP/View/Categories/view.ctp, line 16
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:34:23 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Elements/cats_view_menu.ctp, line 7]
+Trace:
+include - APP/View/Elements/cats_view_menu.ctp, line 7
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/categories_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:34:23 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Elements/cats_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/cats_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/categories_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:34:23 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Elements/cats_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/cats_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/categories_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:54:23 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Topics/view.ctp, line 6]
+Trace:
+include - APP/View/Topics/view.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:54:23 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Topics/view.ctp, line 11]
+Trace:
+include - APP/View/Topics/view.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:54:23 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Topics/view.ctp, line 16]
+Trace:
+include - APP/View/Topics/view.ctp, line 16
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:54:23 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Elements/topics_view_menu.ctp, line 7]
+Trace:
+include - APP/View/Elements/topics_view_menu.ctp, line 7
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/topics_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:54:23 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Elements/topics_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/topics_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/topics_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:54:23 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Elements/topics_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/topics_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/topics_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:54:47 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Topics/view.ctp, line 6]
+Trace:
+include - APP/View/Topics/view.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:54:47 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Topics/view.ctp, line 11]
+Trace:
+include - APP/View/Topics/view.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:54:47 Notice: Notice (8): Undefined index: Category in [/var/www/html/php/bbs_proj/app/View/Topics/view.ctp, line 16]
+Trace:
+include - APP/View/Topics/view.ctp, line 16
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:54:47 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Elements/topics_view_menu.ctp, line 7]
+Trace:
+include - APP/View/Elements/topics_view_menu.ctp, line 7
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/topics_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:54:47 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Elements/topics_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/topics_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/topics_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-01 23:54:47 Notice: Notice (8): Undefined index: Topic in [/var/www/html/php/bbs_proj/app/View/Elements/topics_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/topics_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/topics_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-02 10:53:28 Notice: Notice (8): session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in [/var/www/html/php/bbs_proj/lib/Cake/Model/Datasource/CakeSession.php, line 618]
+Trace:
+session_start - [internal], line ??
+CakeSession::_startSession() - CORE/Cake/Model/Datasource/CakeSession.php, line 618
+CakeSession::start() - CORE/Cake/Model/Datasource/CakeSession.php, line 190
+CakeSession::check() - CORE/Cake/Model/Datasource/CakeSession.php, line 216
+AuthComponent::user() - CORE/Cake/Controller/Component/AuthComponent.php, line 596
+AuthComponent::loggedIn() - CORE/Cake/Controller/Component/AuthComponent.php, line 771
+AuthComponent::login() - CORE/Cake/Controller/Component/AuthComponent.php, line 553
+UsersController::login() - APP/Controller/UsersController.php, line 116
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-03 11:45:26 Notice: Notice (8): Undefined index: User in [/var/www/html/php/bbs_proj/app/View/Users/view.ctp, line 7]
+Trace:
+include - APP/View/Users/view.ctp, line 7
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-03 11:45:26 Notice: Notice (8): Undefined index: User in [/var/www/html/php/bbs_proj/app/View/Users/view.ctp, line 12]
+Trace:
+include - APP/View/Users/view.ctp, line 12
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-03 11:45:26 Notice: Notice (8): Undefined index: User in [/var/www/html/php/bbs_proj/app/View/Users/view.ctp, line 17]
+Trace:
+include - APP/View/Users/view.ctp, line 17
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-03 11:45:26 Notice: Notice (8): Undefined index: User in [/var/www/html/php/bbs_proj/app/View/Users/view.ctp, line 22]
+Trace:
+include - APP/View/Users/view.ctp, line 22
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-03 11:45:26 Notice: Notice (8): Undefined index: User in [/var/www/html/php/bbs_proj/app/View/Users/view.ctp, line 27]
+Trace:
+include - APP/View/Users/view.ctp, line 27
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-03 11:45:26 Notice: Notice (8): Undefined index: User in [/var/www/html/php/bbs_proj/app/View/Users/view.ctp, line 32]
+Trace:
+include - APP/View/Users/view.ctp, line 32
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-03 11:45:26 Notice: Notice (8): Undefined index: User in [/var/www/html/php/bbs_proj/app/View/Users/view.ctp, line 37]
+Trace:
+include - APP/View/Users/view.ctp, line 37
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-03 11:45:26 Notice: Notice (8): Undefined index: User in [/var/www/html/php/bbs_proj/app/View/Users/view.ctp, line 42]
+Trace:
+include - APP/View/Users/view.ctp, line 42
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-03 11:45:26 Notice: Notice (8): Undefined index: User in [/var/www/html/php/bbs_proj/app/View/Elements/users_view_menu.ctp, line 7]
+Trace:
+include - APP/View/Elements/users_view_menu.ctp, line 7
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/users_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-03 11:45:26 Notice: Notice (8): Undefined index: User in [/var/www/html/php/bbs_proj/app/View/Elements/users_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/users_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/users_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-03 11:45:26 Notice: Notice (8): Undefined index: User in [/var/www/html/php/bbs_proj/app/View/Elements/users_view_menu.ctp, line 8]
+Trace:
+include - APP/View/Elements/users_view_menu.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::_renderElement() - CORE/Cake/View/View.php, line 1208
+View::element() - CORE/Cake/View/View.php, line 414
+include - APP/View/Layouts/users_view.ctp, line 49
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::renderLayout() - CORE/Cake/View/View.php, line 535
+View::render() - CORE/Cake/View/View.php, line 479
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2016-01-03 15:07:31 Notice: Notice (8): session_start() [<a href='http://php.net/function.session-start'>function.session-start</a>]: ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in [/var/www/html/php/bbs_proj/lib/Cake/Model/Datasource/CakeSession.php, line 618]
+Trace:
+session_start - [internal], line ??
+CakeSession::_startSession() - CORE/Cake/Model/Datasource/CakeSession.php, line 618
+CakeSession::start() - CORE/Cake/Model/Datasource/CakeSession.php, line 190
+CakeSession::check() - CORE/Cake/Model/Datasource/CakeSession.php, line 216
+AuthComponent::user() - CORE/Cake/Controller/Component/AuthComponent.php, line 596
+AuthComponent::_getUser() - CORE/Cake/Controller/Component/AuthComponent.php, line 617
+AuthComponent::startup() - CORE/Cake/Controller/Component/AuthComponent.php, line 320
+ObjectCollection::trigger() - CORE/Cake/Utility/ObjectCollection.php, line 132
+call_user_func - [internal], line ??
+CakeEventManager::dispatch() - CORE/Cake/Event/CakeEventManager.php, line 248
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 675
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 184
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
