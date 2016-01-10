@@ -60,7 +60,7 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'pma',
-		'password' => 'hoxti932',
+		'password' => 'PASSWORD',
 		'database' => 'bulletin_board',
 		'prefix' => '',
 		//'encoding' => 'utf8',
